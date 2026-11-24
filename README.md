@@ -1,22 +1,41 @@
-# Paul Gabriel Aquino
 
-**Artificial Intelligence Engineering Student | Software Development | Machine Learning**
+<h1 align="center">Paul Gabriel Aquino</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulitoooaquino/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmepaulitooowzs)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulaquino07272007@gmail.com)
+<p align="center">
+  <strong>Artificial Intelligence Engineering Student at Mapúa University</strong>
+</p>
 
-## About Me
+<p align="center">
+  Artificial Intelligence · Software Engineering · Intelligent Systems
+</p>
 
-I am an Artificial Intelligence Engineering student at Mapúa University with a strong interest in artificial intelligence, software engineering, and intelligent systems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulitoooaquino/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/itsmepaulitooowzs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:paulaquino07272007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-My work focuses on developing practical solutions through programming, machine learning, and emerging technologies. I continuously explore new tools and methodologies to strengthen my technical capabilities and contribute to meaningful technological innovations.
+---
 
-## Technical Skills
+## About
+
+I am an Artificial Intelligence Engineering student at Mapúa University interested in building intelligent systems and developing technology-driven solutions to real-world problems.
+
+My technical background includes software development, machine learning, and embedded systems. I actively explore emerging technologies through research, independent development, and hands-on engineering projects.
+
+I am particularly interested in the intersection of artificial intelligence, software engineering, and automation.
+
+## Technical Stack
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=python,cpp,js,php,dart)
+![Languages](https://skillicons.dev/icons?i=python,cpp,js,php,dart)
 
 ### Web and Application Development
 
@@ -24,31 +43,54 @@ My work focuses on developing practical solutions through programming, machine l
 
 ### Artificial Intelligence and Machine Learning
 
-![Artificial Intelligence](https://skillicons.dev/icons?i=python,sklearn)
+![Machine Learning](https://skillicons.dev/icons?i=python,sklearn)
 
 ### Embedded Systems and IoT
 
-![Embedded Systems](https://skillicons.dev/icons?i=arduino)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### Development Tools
 
-![Development Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-## Selected Projects
+## Certifications and Professional Development
 
-| Project | Description |
-| :--- | :--- |
-| **GlucoTech** | A research prototype exploring sensor-based glucose estimation through machine learning. |
-| **ARMAS** | An environmental monitoring system utilizing sensor integration and embedded technologies for river monitoring. |
-| **Waste Segregator** | An automated waste classification and separation prototype using sensors and microcontroller programming. |
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-## Research and Technical Interests
+| Credential | Issuing Organization | Verification |
+| :--- | :--- | :--- |
+| Claude Academy: Claude 101 | Anthropic | [View Credential](https://academy.claude.com/verify/66e449e11ca8ed04831b85d310cfa19e) |
 
-- Artificial Intelligence and Machine Learning
-- Software Engineering
+## Featured Projects
+
+### GlucoTech
+
+`Artificial Intelligence` `Machine Learning` `Research`
+
+A research prototype exploring the application of machine learning and sensor-based data processing for glucose estimation.
+
+### ARMAS
+
+`Internet of Things` `Embedded Systems` `Environmental Monitoring`
+
+A river monitoring system integrating sensor-based data collection and embedded technologies to support environmental monitoring.
+
+### Waste Segregator
+
+`Arduino` `Automation` `Hardware Integration`
+
+An automated waste segregation prototype that integrates sensors, microcontroller programming, and servo-controlled mechanisms for waste classification and separation.
+
+## Research and Development Interests
+
+- Applied Artificial Intelligence
+- Machine Learning and Predictive Analytics
+- Software Engineering and System Architecture
 - Intelligent Automation
-- Embedded Systems and IoT
-- Data Analytics
+- Embedded Systems and Internet of Things
+- Data Engineering and Analytics
 
 ## Education
 
@@ -56,15 +98,23 @@ My work focuses on developing practical solutions through programming, machine l
 
 Bachelor of Science in Artificial Intelligence Engineering
 
-## GitHub Statistics
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmepaulitooowzs&show_icons=true&theme=transparent&hide_border=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsmepaulitooowzs&show_icons=true&theme=transparent&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmepaulitooowzs&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmepaulitooowzs&layout=compact&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itsmepaulitooowzs&theme=transparent&hide_border=true"/>
+</p>
 
 ---
 
-Open to collaboration, technical projects, and professional development opportunities.
+<p align="center">
+  Open to research collaborations, internships, technical projects, and professional opportunities.
+</p>
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmepaulitooowzs&style=flat-square&color=grey&label=Profile+Views"/>
+</p>
