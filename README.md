@@ -1,137 +1,119 @@
-
-<h2 align="center">Paul Gabriel Aquino</h2>
+<h1 align="center">Paul Gabriel Aquino</h1>
 
 <p align="center">
   <strong>Artificial Intelligence Engineering Student at Mapúa University</strong>
-  <br>
-  <sub>Artificial Intelligence · Software Engineering · Intelligent Systems</sub>
+</p>
+
+<p align="center">
+  Artificial Intelligence · Software Engineering · Intelligent Systems
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulitoooaquino/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/itsmepaulitooowzs">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:paulaquino07272007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### About
+## About
 
-I am an Artificial Intelligence Engineering student at Mapúa University with a technical background in software development, machine learning, and embedded systems.
+I am an Artificial Intelligence Engineering student at Mapúa University interested in building intelligent systems and developing technology-driven solutions to real-world problems.
 
-I am interested in developing intelligent applications and integrating emerging technologies to solve practical problems. My experience includes research prototypes, independent software projects, and hardware-based system development.
+My technical background includes software development, machine learning, and embedded systems. I actively explore emerging technologies through research, independent development, and hands-on engineering projects.
 
-### Technical Stack
+I am particularly interested in the intersection of artificial intelligence, software engineering, and automation.
 
-<table>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img height="30" src="https://skillicons.dev/icons?i=python,cpp,js,php,dart" alt="Programming Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Web & Application Development</strong></td>
-    <td>
-      <img height="30" src="https://skillicons.dev/icons?i=html,css,flutter,mysql" alt="Web Development"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI & Machine Learning</strong></td>
-    <td>
-      <img height="30" src="https://skillicons.dev/icons?i=python,sklearn" alt="Machine Learning"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Embedded Systems & IoT</strong></td>
-    <td>
-      <img height="30" src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
-      <img src="https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Development Tools</strong></td>
-    <td>
-      <img height="30" src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
-    </td>
-  </tr>
-</table>
+## Technical Stack
 
-### Certifications & Credentials
+### Programming Languages
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img width="40" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude"/>
-    </td>
-    <td>
-      <strong>Claude Academy: Claude 101</strong>
-      <br>
-      <sub>Anthropic</sub>
-      <br>
-      <a href="https://academy.claude.com/verify/66e449e11ca8ed04831b85d310cfa19e">View Credential</a>
-    </td>
-  </tr>
-</table>
+![Languages](https://skillicons.dev/icons?i=python,cpp,js,php,dart)
 
-### Selected Projects
+### Web and Application Development
 
-**GlucoTech**
+![Development](https://skillicons.dev/icons?i=html,css,flutter,mysql)
 
-<sub>Artificial Intelligence · Machine Learning · Research</sub>
+### Artificial Intelligence and Machine Learning
 
-An experimental research prototype exploring sensor-based glucose estimation through machine learning and predictive data processing.
+![Machine Learning](https://skillicons.dev/icons?i=python,sklearn)
 
-**ARMAS**
+### Embedded Systems and IoT
 
-<sub>Internet of Things · Embedded Systems · Environmental Monitoring</sub>
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
-A river monitoring system integrating sensor-based data acquisition and embedded technologies for environmental monitoring.
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-**Waste Segregator**
+### Development Tools
 
-<sub>Arduino · Intelligent Automation · Hardware Integration</sub>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-An automated waste segregation prototype utilizing sensor-based detection, microcontroller programming, and servo-controlled separation mechanisms.
+## Certifications and Professional Development
 
-### Research & Technical Interests
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-- Applied Artificial Intelligence and Machine Learning
+| Credential | Issuing Organization | Verification |
+| :--- | :--- | :--- |
+| Claude Academy: Claude 101 | Anthropic | [View Credential](https://academy.claude.com/verify/66e449e11ca8ed04831b85d310cfa19e) |
+
+## Featured Projects
+
+### GlucoTech
+
+`Artificial Intelligence` `Machine Learning` `Research`
+
+A research prototype exploring the application of machine learning and sensor-based data processing for glucose estimation.
+
+### ARMAS
+
+`Internet of Things` `Embedded Systems` `Environmental Monitoring`
+
+A river monitoring system integrating sensor-based data collection and embedded technologies to support environmental monitoring.
+
+### Waste Segregator
+
+`Arduino` `Automation` `Hardware Integration`
+
+An automated waste segregation prototype that integrates sensors, microcontroller programming, and servo-controlled mechanisms for waste classification and separation.
+
+## Research and Development Interests
+
+- Applied Artificial Intelligence
+- Machine Learning and Predictive Analytics
 - Software Engineering and System Architecture
-- Generative AI and Intelligent Automation
+- Intelligent Automation
 - Embedded Systems and Internet of Things
 - Data Engineering and Analytics
 
-### Education
+## Education
 
-**Mapúa University**  
+**Mapúa University**
+
 Bachelor of Science in Artificial Intelligence Engineering
 
-<sub>Philippines</sub>
-
-### GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=itsmepaulitooowzs&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Statistics"/>
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmepaulitooowzs&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsmepaulitooowzs&show_icons=true&theme=transparent&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmepaulitooowzs&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=itsmepaulitooowzs&theme=transparent&hide_border=true" alt="Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=itsmepaulitooowzs&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Open to internships, research collaborations, and professional opportunities.</sub>
+  Open to research collaborations, internships, technical projects, and professional opportunities.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmepaulitooowzs&style=flat-square&color=grey&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=itsmepaulitooowzs&style=flat-square&color=grey&label=Profile+Views"/>
 </p>
